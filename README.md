@@ -35,5 +35,5 @@ Search for any city and get real-time weather updates instantly!
 
 ## 📬 Contact
 
-📧 Email: [daksh@example.com](mailto:dakshlakhi01@gmail.com)  
+📧 Email: [dakshlakhi01@gmail.com](mailto:dakshlakhi01@gmail.com)  
 🔗 GitHub: [github.com/daksh-lakhi](https://github.com/daksh-lakhi)
